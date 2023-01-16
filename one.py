@@ -4,4 +4,4 @@ b = 3
 print('Addition', a + b)
 print('Multiplication', a*b)
 print('Done')
-print('Changes from git bash))
+print('Changes from git bash')
